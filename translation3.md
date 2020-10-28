@@ -9,4 +9,4 @@ B: Grammatical Questions:
 6. masculine, nominitive, plural 
 7. ablative 
 C. Translation 
-Erechtheus, pandionis son, has four daughters. At one time, Eumolpus, neptune's son, came to athens alive to attack. Neptune, was angry because his son Erechtheus was destroyed and, "Erecthei's daughter will be sacrficed". Thus, Chthonia, the only daughter, will sacrifice herself. The other, Erechtheus, killed himself  by lightning strike  
+Erechtheus, pandionis son, has four daughters. At that time, Eumolpus, neptune's son, came to attack Athens. Neptune, was angry because his son Erechtheus was killed and, "Erecthei's daughter will be sacrficed". Thus, Chthonia, the only daughter, will sacrifice herself. The other, Erechtheus, killed himself  by lightning strike  
