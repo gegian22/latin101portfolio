@@ -1,0 +1,25 @@
+1. feminine 
+2. ablative
+3. object of preposition 
+4. masculine 
+5. nominative 
+6. plural
+7. subject 
+8. feminine
+9. nominative
+10. singular
+11. subject
+12. neuter
+13. accusative 
+14. singular
+15. masculine
+16. genitive
+17. plural
+18. filios
+19. masculine
+20. genitive
+21. singular
+22. masculine
+23. nominative
+24. singular
+25. Hercules
