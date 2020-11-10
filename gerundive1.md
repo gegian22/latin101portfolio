@@ -5,7 +5,7 @@
 1c. Canem
 1d. masculine accusative singular
 
-2a. ad **Not a verb**
+2a. misit
 2b. quaerendum
 2c. Thyestem
 2d. masculine acusative singular
