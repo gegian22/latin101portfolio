@@ -1,1 +1,10 @@
-Venus et Mars clam concumbebant nocte. Factum indicandum Vulcano erat. Catena adamantis a vulcano facta est et circum lectrum Veneris et Martis. Venus et Mars eam non viderunt. Non poterant evadere. Dei vocati sunt ad eos videndos horas. Venus et Mars clam concumbebant. Factum indicandum Vulcano erat. Catena adamantis a vulcano facta est et circum lectrum Veneris et Martis. Venus et Mars eam non viderunt. Non poterant evadere. Dei ad eos videndos vocati sunt. Mars pudōrem sentiebat ob dolum. Amāre dīvīnum est, sed errāre dīvīnum est. 
+**Needs revisions**
+
+Venus et Mars clam concumbebant nocte.
+Factum indicandum Vulcano erat.
+Catena adamantis a vulcano facta est et circum lectrum Veneris et Martis. **The second sentence needs a verb.**
+Venus et Mars eam non viderunt.
+Non poterant evadere. **Good -- could you add the idea "from it," using the preposition *e/ex* ?**
+Dei vocati sunt ad eos videndos horas.
+Mars pudōrem sentiebat ob dolum. 
+Amāre dīvīnum est, sed errāre dīvīnum est.
