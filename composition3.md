@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 Venus et Mars clam concumbebant nocte.
 Factum indicandum Vulcano erat.
