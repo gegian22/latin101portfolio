@@ -13,4 +13,4 @@
 13. third plural imperfect subjunctive active 
 14. third plural plurperfect subjunctive active 
 15. third plural perfect passive subjunctive 
-16. third singular pluperfect active subjunctive 
+16. third singular pluperfect active subjunctive
