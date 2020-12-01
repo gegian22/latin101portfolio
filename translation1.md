@@ -10,4 +10,13 @@ Part B: Grammatical Questions
 7. 3rd declension 
 8. will 
 Part C: Translation 
-Chaos was the first god. Nox is the daughter of mother earth and it is a good omen to be human.  
+Chaos was the first god. 
+Nox is the daughter of mother earth and it is a good omen to be human.  
+ Haec māter Mortis et Lētī erat.
+ haec--this, such; mater--mother; mortis--death; et--and; letum--violent death; erat--to be
+ This mother will die and it will be a violent death 
+ Illīus fīliī horribilia mōnstra erant: Typhon, Python, et Cyclōpēs.
+ illius--he; filii--son; horribilia--horrible; monstra-- to show; erant--to be last three are names 
+the sons, Typhon, Python, and Cyclōpēs will reveal they are horrible.
+Typhon et Python dracōnēs ingentēs erant et Cyclōpēs fabrī brūtī.
+Typhon--name; et--and; phython--name; dracōnēs--dragon
