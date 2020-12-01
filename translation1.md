@@ -1,5 +1,5 @@
 Part A: Grammatical Analysis 
-Chaos *prīmus* deōrum **erat**. Fīliae **eius**, *Nox* et Terra, māter omnium hominum, erant. Haec māter Mortis et Lētī **erat**. Illīus fīliī horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs. Typhon et Python dracōnēs ingentēs **erant** et Cyclōpēs fabrī brūtī. Sed frāter **eōrum** Ūranus, prīmus ipse rēx deōrum. Hic fortis et magnus **erat**, sed sapiēns.
+Chaos prīmus *deōrum* **erat**. *Fīliae* **eius**, Nox et Terra, māter omnium hominum, erant. Haec māter Mortis et *Lētī* **erat**. Illīus fīliī horribilia *mōnstra* **erant**: Typhon, Python, et Cyclōpēs. Typhon et Python dracōnēs *ingentēs* **erant** et Cyclōpēs fabrī brūtī. Sed *frāter* **eōrum** Ūranus, prīmus ipse rēx deōrum. Hic fortis et *magnus* **erat**, sed sapiēns.
 Part B: Grammatical Questions
 1. genitive, it refers to "filiae" 
 2. Pronoun
