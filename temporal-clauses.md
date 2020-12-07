@@ -1,3 +1,4 @@
+**Satisfactory:  full credit**
 1a. past
 1b. subjunctive
 1c. imperfect
