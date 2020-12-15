@@ -9,10 +9,10 @@
 7. third singular imperfect subjunctive passive
 8. third singular present indicative
 9. third pluaral present indicative active
-10. third singular imperfect subjunctive passive **Check the stem -- does it look like the present infintive?**
-11. third plural perfecrt subjunctive active **What mood would *sunt* be by itself?**
+10. third singular present indcative passive **Check the stem -- does it look like the present infintive?**
+11. third plural perfecrt indicative active **What mood would *sunt* be by itself?**
 12. third singular perfect subjunctive passive
-13. third plural imperfect subjunctive active **Check the stem of this (irregular!) verb.**
+13. third plural perfect subjunctive active **Check the stem of this (irregular!) verb.**
 14. third plural plurperfect subjunctive active
 15. third plural perfect passive subjunctive
 16. third singular pluperfect active subjunctive
