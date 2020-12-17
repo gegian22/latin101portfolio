@@ -1,4 +1,4 @@
-
+**Satisfactory:  full credit**
 
 A: Grammatical Analysis
 
