@@ -19,3 +19,5 @@ Third singular active: videt, videba, vidit
 third singular passive: videtur, videbantur, visae sunt 
 Second singular active: vides, videbas, vidisti
 Second singular passive: videris, videbaris, visa
+THird plural active: vident, videbant, viderunt
+Third plural passive: videntur, videbantur, visae sunt 
