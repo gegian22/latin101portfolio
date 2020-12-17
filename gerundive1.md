@@ -1,11 +1,11 @@
-**Needs a correction**
+
 
 1a. Venit
 1b. ducendum
 1c. Canem
 1d. masculine accusative singular
 
-2a. misit
+2a. mittit
 2b. quaerendum
 2c. Thyestem
 2d. masculine acusative singular
