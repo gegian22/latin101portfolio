@@ -21,6 +21,6 @@ C. Translation
 Erechtheus, Pandion's son, had four daughters. 
  At that time, Eumolpus, Neptune's son, came to attack Athens. 
  Neptune, was angry because his son Erechtheus was killed. 
- Neptune said, "Erectheus' daughter is offered"
- Thus, Chthonia, his only daughter, was sacrificed. 
- The other, Erechtheus, was killed by lightning strike. 
+ Neptune said, "Erectheus' daughter must be sacrificed"
+ Thus, Chthonia, one of his daughters, was sacrificed. 
+ The other sisters killed themselves and Erechtheus was killed by lightning strike. 
