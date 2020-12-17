@@ -3,9 +3,10 @@
 A: Grammatical Analysis
 
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
-illō tempōre, Eumolpus, Neptūnī fīlius, **vēnit** ad *Athēnās* oppugnandās, sed hic victus est.  (**There are TWO sentences here joined with *sed*; each sentence has a subject and verb.**)
-*Neptūnus*, infestus quod fīlius ab Erechtheō **interfectus** est, dīxit “Erecthei fīlia immolanda est.” (**I)
+illō tempōre, Eumolpus, Neptūnī fīlius, **vēnit** ad *Athēnās* oppugnandās, sed *hic* **victus est**.  
+*Neptūnus*, infestus quod fīlius ab Erechtheō **interfectus est**, dīxit “Erecthei fīlia immolanda est.” (**I)
 itaque *Chthonia*, fīliārum ūna, immolāta **est**. ceterae sorōrēs sē **interfēcērunt**; ipse *Erechtheus* ab fulmine ictus est.
+
 B: Grammatical Questions:
 1. Abblative because of the form of "illō"
 2. verb
@@ -17,7 +18,9 @@ B: Grammatical Questions:
 
 C. Translation
 
-Erechtheus, Pandion's son, has four daughters. (**What tense is *habuit*?**)
- At that time, Eumolpus, Neptune's son, came to attack Athens. Neptune, was angry because his son Erechtheus was killed. He said, "Erectheus' daughter will be sacrficed". (**Neptune's statement is not a future tense promise.  What does the gerundive + "to be" express?"**)
- Thus, Chthonia, his only daughter, will be sacrificed. (**What tense is the verb here**?)
- The other, Erechtheus, killed himself by lightning strike. (**What voice is the verb here?**)
+Erechtheus, Pandion's son, had four daughters. 
+ At that time, Eumolpus, Neptune's son, came to attack Athens. 
+ Neptune, was angry because his son Erechtheus was killed. 
+ Neptune said, "Erectheus' daughter is offered"
+ Thus, Chthonia, his only daughter, was sacrificed. 
+ The other, Erechtheus, was killed by lightning strike. 
