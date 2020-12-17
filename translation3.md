@@ -3,18 +3,18 @@
 A: Grammatical Analysis
 
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
-illō tempōre, Eumolpus, Neptūnī fīlius, **vēnit** ad *Athēnās* oppugnandās, sed *hic* **victus est**.  
-*Neptūnus*, infestus quod fīlius ab Erechtheō **interfectus est**, dīxit “Erecthei fīlia immolanda est.” (**I)
-itaque *Chthonia*, fīliārum ūna, immolāta **est**. ceterae sorōrēs sē **interfēcērunt**; ipse *Erechtheus* ab fulmine ictus est.
+illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās oppugnandās, sed *hic* **victus est**.  
+*Neptūnus*, infestus quod *fīlius* ab Erechtheō **interfectus est**, **dīxit** “Erecthei *fīlia* immolanda **est**.” 
+itaque *Chthonia*, fīliārum ūna, **immolāta est**. *ceterae sorōrēs* sē **interfēcērunt**; ipse *Erechtheus* fulmine **ictus est**.
 
 B: Grammatical Questions:
-1. Abblative because of the form of "illō"
-2. verb
-3. Athenas attacks
-4. nominitive, singular, masculine
-5. it is feminine and is saying "it is a sacrifice of the daughter"
-6. masculine, nominitive, plural
-7. ablative
+1. Abblative because it's expressing a specific moment in time
+2. gerundive verb 
+3. Expresses purpose
+4. third person, singular, perfect, indicative, passive
+5. Using the gerundive to express necessity 
+6. feminine, nominative, plural
+7. ablative expressing instrument or means 
 
 C. Translation
 
