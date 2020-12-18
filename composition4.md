@@ -1,4 +1,4 @@
-
+**Satisfactory: full credit**
 
 Cum Hercules ad Cerberum tricipitem canem educendum missus esset ab Eurystheo, Lycus putabat Herculem mortuum esset.  
 
