@@ -1,4 +1,4 @@
-
+**Satisfactory:  full credit**
 
 1. third person singular perfect indicative active
 2. present active infinitive
